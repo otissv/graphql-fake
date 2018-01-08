@@ -1,0 +1,48 @@
+{
+  "name": "graphql-fake-core",
+  "version": "1.0.0",
+  "author": {
+    "name": "Otis Virginie"
+  },
+  "description": "",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "typescript": {
+    "definition": "dist/index.d.ts"
+  },
+  "scripts": {
+    "lint": "tslint $(find src | grep ts$)",
+    "clean": "rimraf dist",
+    "build": "tsc --alwaysStrict --pretty -t 'ES5'",
+    "typings": "typings install",
+    "watch": "tsc -w"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "casual": "^1.5.19",
+    "deprecated-decorator": "^0.1.6",
+    "faker": "^4.1.0",
+    "moment": "^2.20.1"
+  },
+  "peerDependencies": {
+    "graphql": "^0.8.0 || ^0.9.0 || ^0.10.0"
+  },
+  "optionalDependencies": {
+    "@types/graphql": "^0.11.7"
+  },
+  "devDependencies": {
+    "@types/bluebird": "^3.5.19",
+    "@types/moment": "^2.13.0",
+    "@types/node": "^9.3.0",
+    "body-parser": "^1.18.2",
+    "clean": "rimraf dist",
+    "express": "^4.16.2",
+    "graphql": "^0.12.3",
+    "graphql-subscriptions": "^0.5.6",
+    "graphql-type-json": "^0.1.4",
+    "source-map-support": "^0.5.0",
+    "tslint": "^5.8.0",
+    "typescript": "^2.6.2",
+    "typings": "^2.1.1"
+  }
+}

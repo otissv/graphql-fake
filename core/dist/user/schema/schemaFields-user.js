@@ -1,0 +1,4 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.default = "\n  #=> \"Alberto\" \n  name_: String\n\n  #=> \"Darryl\"\n  username_: String\n\n  #=> \"Derek\" \n  firstName_: String\n\n  #=> \"Smith\" \n  lastName_: String\n\n  #=> \"John Smith\" \n  fullName_: String\n\n  #=> \"Miss\"\n  password_: String\n\n  #=> \"Jr.\" \n  namePrefix_: String\n\n  #=> \"Cole Wuckert and Strosin\" \n  nameSuffix_: String\n\n  #=> \"Josue.Smith@claire.us\" \n  email_: String\n\n  #=> \"Internal Implementation Planner\"\n  jobTitle_: String\n\n  #=> \"District\"\n  jobDescriptor_: String\n\n  #=> \"Paradigm\"\n  jobArea_: String\n\n  #=> \"Strategist\"\n  jobType_: String\n\n  #=> \n  avatar_: String\n\n  #=> \n  address_: Address_\n\n  #=> \n  company_: String\n\n  #=> \n  phoneNumber_: String\n\n  #=> \n  website_: String\n\n  #=> \n  roles_: [String]\n";
+//# sourceMappingURL=schemaFields-user.js.map

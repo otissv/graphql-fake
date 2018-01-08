@@ -1,0 +1,22 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var address_1 = require("../../address");
+var card_1 = require("../../card");
+var color_1 = require("../../color");
+var commerce_1 = require("../../commerce");
+var company_1 = require("../../company");
+var currency_1 = require("../../currency");
+var database_1 = require("../../database");
+var dateTime_1 = require("../../dateTime");
+var finance_1 = require("../../finance");
+var hacker_1 = require("../../hacker");
+var image_1 = require("../../image");
+var internet_1 = require("../../internet");
+var lorem_1 = require("../../lorem");
+var misc_1 = require("../../misc");
+var numbers_1 = require("../../numbers");
+var person_1 = require("../../person");
+var phone_1 = require("../../phone");
+var system_1 = require("../../system");
+exports.default = "\n  " + address_1.default.fields + "\n  " + card_1.default.fields + "\n  " + color_1.default.fields + "\n  " + commerce_1.default.fields + "\n  " + company_1.default.fields + "\n  " + currency_1.default.fields + "\n  " + database_1.default.fields + "\n  " + dateTime_1.default.fields + "\n  " + finance_1.default.fields + "\n  " + hacker_1.default.fields + "\n  " + image_1.default.fields + "\n  " + internet_1.default.fields + "\n  " + lorem_1.default.fields + "\n  " + misc_1.default.fields + "\n  " + numbers_1.default.fields + "\n  " + person_1.default.fields + "\n  " + phone_1.default.fields + "\n  " + system_1.default.fields + "\n";
+//# sourceMappingURL=schemaFields-fake.js.map

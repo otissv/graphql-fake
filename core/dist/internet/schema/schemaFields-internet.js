@@ -1,0 +1,4 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.default = "\n  #=> \"21.44.122.149\" \n  ip_:String\n\n  #=> \"darrion.us\"\n  domainName_:String\n\n  #=> \"darrion.us\" \n  url_:String\n\n  #=> \"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0\"\n  userAgent_:String\n\n  #=> \"https\"\n  protocol_:String\n\n  #=> \"com\"\n  domainSuffix_:String\n\n  #=> \"com\"\n  domainWord_:String\n\n  #=> \"159f:cc14:a496:96ae:2b50:41be:ad7d:679a\"\n  ipv6_:String\n\n  #=> \"eb:3c:78:4c:2e:bb\"\n  mac_:String\n\n  exampleEmail_:String\n";
+//# sourceMappingURL=schemaFields-internet.js.map

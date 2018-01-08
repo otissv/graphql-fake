@@ -1,0 +1,4 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.default = "\n  #=> \"New Ortiz chester\"\n  country_: String\n\n  #=> \"New Ortiz chester\"\n  city_: String\n\n  #=> \"26995-7979\" (if no digits specified then random selection between ZIP and ZIP+4)\n  zipCode_: String\n\n  #=>\n  streetSuffix_: String\n\n  #=>\n  streetPrefix_: String\n\n  #=>\n  streetName_: String\n\n  #=>\n  streetAddress_: String\n\n  #=> \"Michigan\"\n  state_: String\n\n  #=> \"CO\"\n  stateAbbr_: String\n\n  #=> 90.0610\n  latitude_: Int\n\n  #=> 180.0778\n  longitude_: Int\n\n  #=>2413\n  buildingNumber_: Int\n\n  #=> \"ES\"\n  countryCode_: String\n\n  #=> \"side\"\n  cityPrefix_: String\n\n  #=> \"port\"\n  citySuffix_: String\n\n  #=> 88\n  room_: Int\n";
+//# sourceMappingURL=schemaFields-address.js.map

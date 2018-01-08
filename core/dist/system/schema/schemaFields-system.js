@@ -1,0 +1,4 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.default = "\n  #=> \"2f4dc6ba-bd25-4e66-b369-43a13e0cf150\" \n  uuid_: String\n\n  #=> \"2f4dc6ba-bd25-4e66-b369-43a13e0cf150\" \n  id_: String\n\n  #=> \"2f4dc6ba-bd25-4e66-b369-43a13e0cf150\" \n  id_: String\n\n  fileName_: String\n\n  #=>\n  commonFileName_: String\n\n  #=>\n  commonFileType_: String\n\n  #=>\n  commonFileExtension_: String\n\n  #=>\n  directoryPath_: String\n\n  #=>\n  filePath_: String\n\n  #=>\n  semver_: String\n\n  #=> \"audio/mpeg\"\n  mimeType_: String\n\n  #=> \"rtf\"\n  fileExtension_: String\n";
+//# sourceMappingURL=schemaFields-system.js.map

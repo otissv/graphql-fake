@@ -1,0 +1,4 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.default = "\n  #=> \"Cole Wuckert and Strosin\"\n  companyName_: String\n\n  #=> \"Inc\"\n  companySuffix_: String\n\n  #=> \"Synchronised optimal concept\"\n  catchPhrase_: String\n\n  #=> \"Incand SonsLLCGroup\"\n  suffixes_: String\n\n  #=> \"turn-key visualize communities\"\n  bs_: String\n\n  #=> \"Cross-platform\"\n  catchPhraseAdjective_: String\n\n  #=> \"homogeneous\"\n  catchPhraseDescriptor_: String\n\n  #=> \"frame\"\n  catchPhraseNoun_: String\n\n  #=> \"transparent\"\n  bsAdjective_: String\n\n  #=> \"matrix\"\n  bsBuzz_: String\n\n  #=> \"functionalities\"\n  bsNoun_: String\n";
+//# sourceMappingURL=schemaFields-company.js.map
